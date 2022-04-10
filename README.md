@@ -3,7 +3,7 @@ Basic Programming for Data Science And Visualization : ขนิษฐา ภู
 # Final Project
   * [GITHUB](Project_final(edit_หลังนำเสนอ).ipynb)
   * [DASHBOARD](https://datastudio.google.com/reporting/f8ab3c00-37c7-4b7a-b11d-5158d236b145/page/K6CpC/edit?fbclid=IwAR2RlWfbGRqdeGgoeLOmuXxckxFSa-GngoCmKoxBD7Jqk2auCNWCM4LRrcw)
-  * [ไฟล์นำเสนอ](Final project.pdf)
+  * [ไฟล์นำเสนอ](https://www.canva.com/design/DAE8eD9AlPc/zQ0u6Nbuhwo79e2Qh_uc3w/edit?fbclid=IwAR1VLGK4gSCqbo7lAXyO9zYz4NNWETqbaDsSLztGruFAy5HVUG34QC15kH8)
   
 # Final Exam Tricorns GROUP
   * [GITHUB](Final_2022.ipynb)
